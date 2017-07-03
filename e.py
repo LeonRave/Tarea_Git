@@ -1,4 +1,5 @@
 import a, b, c, d, f
+import math as m
 
 f.presenta()
 print(a.suma(3,3))
